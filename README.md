@@ -12,4 +12,4 @@ AI is everywhere; this repo gathers AI companies/products/tools from a variety o
 
 ---
 
-[WhereIsAI.com](https://whereisai.com) | An AI Navigation Website
+Discover the World of AI at [WhereIsAI.com](https://whereisai.com) - Your Ultimate Guide to AI Companies, Products, and Tools. Visit [WhereIsAI.com](https://whereisai.com) for More Details.
